@@ -1,5 +1,13 @@
 [
   {
+    "name": "RYS",
+    "symbol": "RYS",
+    "address": "0xDe95A749Cbb93940A06c68FfA78ECFce1b1F7d9a",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15166.png"
+  },  
+  {
     "name": "eSolen",
     "symbol": "ESOL",
     "address": "0xef718e7B996a6a71497959d0Ff534c80FEceeCC6",
