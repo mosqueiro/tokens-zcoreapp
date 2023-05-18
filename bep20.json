@@ -1,5 +1,13 @@
 [
   {
+    "name": "eSolen",
+    "symbol": "ESOL",
+    "address": "0xef718e7B996a6a71497959d0Ff534c80FEceeCC6",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/8CDFVIe.png"
+  },  
+  {
     "name": "ZCore",
     "symbol": "ZCR",
     "address": "0x2E40565771cf2BF8622C41CDd85701519F22418A",
