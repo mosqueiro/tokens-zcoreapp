@@ -1,5 +1,13 @@
 [
   {
+    "name": "Cloth Token",
+    "symbol": "CLOTH",
+    "address": "0xd913e9362e4e3d294adbdfc0d3e5db1f57dc4376",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/5PtWo2N.png"
+  },  
+  {
     "name": "RYS",
     "symbol": "RYS",
     "address": "0xDe95A749Cbb93940A06c68FfA78ECFce1b1F7d9a",
