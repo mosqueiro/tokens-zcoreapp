@@ -1,7 +1,7 @@
 [
   {
     "name": "Urus Swap",
-    "symbol": "CLOTH",
+    "symbol": "URS",
     "address": "0xb2Cec3c6585f9EEEfde0002b2BB81DFe5dF668b4",
     "chainId": 56,
     "decimals": 18,
