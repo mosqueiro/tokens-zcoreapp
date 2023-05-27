@@ -1,5 +1,13 @@
 [
   {
+    "name": "ExtractoDAO Bull",
+    "symbol": "XBLL",
+    "address": "0x8110706a399d457d67b7a2b7636482b4bfcebb21",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://extractodao.com/assets/img/bull-black.png"
+  },  
+  {
     "name": "Urus Swap",
     "symbol": "URS",
     "address": "0xb2Cec3c6585f9EEEfde0002b2BB81DFe5dF668b4",
