@@ -1,5 +1,13 @@
 [
   {
+    "name": "Nero Token",
+    "symbol": "NERO",
+    "address": "0x624b9B1aC0Fb350aed8389a51b26E36147E158c3",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/CENQmTT.png"
+  },  
+  {
     "name": "Astro Cash",
     "symbol": "ASTRO",
     "address": "0x1b24ebbEc03298576337B1805c733cD225C8a6BC",
