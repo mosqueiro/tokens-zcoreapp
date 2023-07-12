@@ -1,5 +1,13 @@
 [
   {
+    "name": "PokerFI.Finance",
+    "symbol": "PokerFI",
+    "address": "0xfE073C3B891325AE8686d9Cf2C8b3586674f7BE2",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://pokerfi.com.br/wp-content/uploads/2022/03/moedinha1.png"
+  },  
+  {
     "name": "Pinta Crypto",
     "symbol": "PCO",
     "address": "0xcF75B10C331E54707b1E0932Bb24CB0E0bD5fB1d",
