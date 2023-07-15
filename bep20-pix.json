@@ -1,4 +1,8 @@
 {
+	"ZCR": {
+		"contract": "0x2E40565771cf2BF8622C41CDd85701519F22418A",
+		"slippage": 1
+	},
 	"BNB": {
 		"contract": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
 		"slippage": 1
