@@ -33,6 +33,16 @@
 		"contract": "0x624b9b1ac0fb350aed8389a51b26e36147e158c3",
 		"logo": "https://i.imgur.com/WG3ECbD.png",
 		"slippage": 15
+	},
+	"ASTRO": {
+		"contract": "0x1b24ebbEc03298576337B1805c733cD225C8a6BC",
+		"logo": "https://zcore.network/coins/ASTRO.png?45989",
+		"slippage": 1
+	},
+	"PCO": {
+		"contract": "0xcF75B10C331E54707b1E0932Bb24CB0E0bD5fB1d",
+		"logo": "https://i.imgur.com/qgMSYYo.png",
+		"slippage": 20
 	},	
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
