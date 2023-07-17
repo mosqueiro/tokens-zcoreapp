@@ -29,6 +29,11 @@
 		"logo": "https://zcore.network/coins/BUSD.png",
 		"slippage": 1
 	},
+	"NERO": {
+		"contract": "0x624b9b1ac0fb350aed8389a51b26e36147e158c3",
+		"logo": "https://i.imgur.com/WG3ECbD.png",
+		"slippage": 15
+	},	
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
 		"logo": "https://s2.coinmarketcap.com/static/img/coins/200x200/7186.png",
