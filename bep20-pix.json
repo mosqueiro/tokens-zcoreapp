@@ -43,6 +43,11 @@
 		"contract": "0xcF75B10C331E54707b1E0932Bb24CB0E0bD5fB1d",
 		"logo": "https://i.imgur.com/qgMSYYo.png",
 		"slippage": 20
+	},
+	"COPY": {
+		"contract": "0x9Fc6E747c70Cf91eA1558917d9494dc0923BF83f",
+		"logo": "https://i.imgur.com/8oQWeBF.png",
+		"slippage": 20
 	},	
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
