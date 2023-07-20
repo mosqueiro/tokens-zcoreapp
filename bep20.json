@@ -1,5 +1,13 @@
 [
   {
+    "name": "ALLKY",
+    "symbol": "AKY",
+    "address": "0xC2A37e140546c25a607502c42Cb2d44Fc4d1609c",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://i.imgur.com/QyJGY8s.png"
+  },
+  {
     "name": "PokerFI.Finance",
     "symbol": "PokerFI",
     "address": "0xfE073C3B891325AE8686d9Cf2C8b3586674f7BE2",
