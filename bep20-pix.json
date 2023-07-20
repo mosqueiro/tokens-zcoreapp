@@ -48,6 +48,11 @@
 		"contract": "0x9Fc6E747c70Cf91eA1558917d9494dc0923BF83f",
 		"logo": "https://i.imgur.com/8oQWeBF.png",
 		"slippage": 20
+	},
+	"AKY": {
+		"contract": "0xC2A37e140546c25a607502c42Cb2d44Fc4d1609c",
+		"logo": "https://i.imgur.com/QyJGY8s.png",
+		"slippage": 10
 	},	
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
