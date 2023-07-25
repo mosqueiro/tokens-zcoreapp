@@ -52,7 +52,12 @@
 	"AKY": {
 		"contract": "0xC2A37e140546c25a607502c42Cb2d44Fc4d1609c",
 		"logo": "https://i.imgur.com/QyJGY8s.png",
-		"slippage": 10
+		"slippage": 20
+	},
+	"ESOL": {
+		"contract": "0xef718e7B996a6a71497959d0Ff534c80FEceeCC6",
+		"logo": "https://i.imgur.com/y6Fau6j.png",
+		"slippage": 20
 	},	
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
