@@ -2,7 +2,7 @@
 	"ZCR": {
 		"contract": "0x2E40565771cf2BF8622C41CDd85701519F22418A",
 		"logo": "https://zcore.network/coins/ZCR.png",
-		"slippage": 1
+		"slippage": 10
 	},
 	"BNB": {
 		"contract": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
