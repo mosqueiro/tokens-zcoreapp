@@ -37,7 +37,7 @@
 	"ASTRO": {
 		"contract": "0x1b24ebbEc03298576337B1805c733cD225C8a6BC",
 		"logo": "https://zcore.network/coins/ASTRO.png?45989",
-		"slippage": 1
+		"slippage": 10
 	},
 	"PCO": {
 		"contract": "0xcF75B10C331E54707b1E0932Bb24CB0E0bD5fB1d",
