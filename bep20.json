@@ -1,5 +1,21 @@
 [
   {
+    "name": "yTOFU",
+    "symbol": "yTOFU",
+    "address": "0xb4c20Bb1C75300Fa724ec3196B5d1C854a7d58a0",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/PSfkSVy.png"
+  },
+  {
+    "name": "Ysoy",
+    "symbol": "Ysoy",
+    "address": "0x57488Fcc3dC72Edb0a4c06a356c2c43C08BdfB42",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/ACAO795.png"
+  },  
+  {
     "name": "ALLKY",
     "symbol": "AKY",
     "address": "0xC2A37e140546c25a607502c42Cb2d44Fc4d1609c",
