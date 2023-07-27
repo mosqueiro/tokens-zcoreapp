@@ -58,6 +58,16 @@
 		"contract": "0xef718e7B996a6a71497959d0Ff534c80FEceeCC6",
 		"logo": "https://i.imgur.com/y6Fau6j.png",
 		"slippage": 20
+	},
+	"yTOFU": {
+		"contract": "0xb4c20Bb1C75300Fa724ec3196B5d1C854a7d58a0",
+		"logo": "https://i.imgur.com/PSfkSVy.png",
+		"slippage": 10
+	},
+	"Ysoy": {
+		"contract": "0x57488Fcc3dC72Edb0a4c06a356c2c43C08BdfB42",
+		"logo": "https://i.imgur.com/ACAO795.png",
+		"slippage": 10
 	},	
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
