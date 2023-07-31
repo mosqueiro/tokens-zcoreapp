@@ -63,7 +63,12 @@
 		"contract": "0x57488Fcc3dC72Edb0a4c06a356c2c43C08BdfB42",
 		"logo": "https://i.imgur.com/ACAO795.png",
 		"slippage": 10
-	},	
+	},
+  	"PEPEHERO": {
+    		"contract": "0x90B2e2aa0bb8480AB9eE1d4b2eDA824Eb927B8d7",
+    		"logo": "https://i.imgur.com/uSRu2IY.png",
+    		"slippage": 20
+  	},	
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
 		"logo": "https://s2.coinmarketcap.com/static/img/coins/200x200/7186.png",
