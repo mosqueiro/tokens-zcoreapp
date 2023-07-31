@@ -1,5 +1,13 @@
 [
   {
+    "name": "Baby Pepe Floki",
+    "symbol": "BPEPEF",
+    "address": "0x271D4D50b0AeC888A7a3F9828Ea25A052912C86f",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/JVlyuKD.png"
+  },  
+  {
     "name": "Pepe Heroes",
     "symbol": "PEPEHERO",
     "address": "0x90B2e2aa0bb8480AB9eE1d4b2eDA824Eb927B8d7",
