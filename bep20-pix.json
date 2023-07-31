@@ -74,6 +74,11 @@
     		"logo": "https://i.imgur.com/JVlyuKD.png",
     		"slippage": 20
   	},
+  	"XBIT": {
+    		"contract": "0xc97923B14c55916C9804d7E7b545556BFEd238be",
+    		"logo": "https://i.imgur.com/lBHWN6M.png",
+    		"slippage": 20
+  	},
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
 		"logo": "https://s2.coinmarketcap.com/static/img/coins/200x200/7186.png",
