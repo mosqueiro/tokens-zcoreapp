@@ -79,6 +79,11 @@
     		"logo": "https://i.imgur.com/lBHWN6M.png",
     		"slippage": 20
   	},
+  	"Marchador": {
+    		"contract": "0xc489F4cBDcf35217E9cEAA4eb4A37eD7287F35cE",
+    		"logo": "https://i.imgur.com/ZFUjDNu.png",
+    		"slippage": 20
+  	},	
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
 		"logo": "https://s2.coinmarketcap.com/static/img/coins/200x200/7186.png",
