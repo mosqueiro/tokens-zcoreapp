@@ -68,7 +68,12 @@
     		"contract": "0x90B2e2aa0bb8480AB9eE1d4b2eDA824Eb927B8d7",
     		"logo": "https://i.imgur.com/uSRu2IY.png",
     		"slippage": 20
-  	},	
+  	},
+  	"BPEPEF": {
+    		"contract": "0x271D4D50b0AeC888A7a3F9828Ea25A052912C86f",
+    		"logo": "https://i.imgur.com/JVlyuKD.png",
+    		"slippage": 20
+  	},
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
 		"logo": "https://s2.coinmarketcap.com/static/img/coins/200x200/7186.png",
