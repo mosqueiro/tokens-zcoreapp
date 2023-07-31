@@ -29,11 +29,6 @@
 		"logo": "https://zcore.network/coins/BUSD.png",
 		"slippage": 1
 	},
-	"NERO": {
-		"contract": "0x624b9b1ac0fb350aed8389a51b26e36147e158c3",
-		"logo": "https://i.imgur.com/WG3ECbD.png",
-		"slippage": 15
-	},
 	"ASTRO": {
 		"contract": "0x1b24ebbEc03298576337B1805c733cD225C8a6BC",
 		"logo": "https://zcore.network/coins/ASTRO.png?45989",
