@@ -1,5 +1,13 @@
 [
   {
+    "name": "PETCOIN",
+    "symbol": "PETCOIN",
+    "address": "0xc489F4cBDcf35217E9cEAA4eb4A37eD7287F35cE",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/USmOb6n.png"
+  },
+  {
     "name": "Mangalarga Token",
     "symbol": "Marchador",
     "address": "0xc489F4cBDcf35217E9cEAA4eb4A37eD7287F35cE",
