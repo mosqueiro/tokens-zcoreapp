@@ -83,6 +83,11 @@
     		"contract": "0xc489F4cBDcf35217E9cEAA4eb4A37eD7287F35cE",
     		"logo": "https://i.imgur.com/ZFUjDNu.png",
     		"slippage": 20
+  	},
+  	"CLOTH": {
+    		"contract": "0xd913e9362e4e3d294adbdfc0d3e5db1f57dc4376",
+    		"logo": "https://i.imgur.com/ujJRVzU.png",
+    		"slippage": 20
   	},	
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
