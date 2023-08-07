@@ -1,5 +1,13 @@
 [
   {
+    "name": "baby minako 2.0",
+    "symbol": "BBM2.0",
+    "address": "0xa362217F02DA8A580dd3612a8B5A36d9aB20983A",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/wcG9j1j.png"
+  },
+  {
     "name": "BABY OGGY CEO",
     "symbol": "OGGYB",
     "address": "0xe9aE8d2D6577BDa0c8a8bf1b35d9B9796294BE84",
