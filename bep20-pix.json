@@ -113,6 +113,11 @@
     		"contract": "0x639fFeefe700a0926845F761B72F173765B842c9",
     		"logo": "https://i.imgur.com/EIGB5UJ.png",
     		"slippage": 20
+  	},
+  	"CZX": {
+    		"contract": "0xFf77d719A7538d3830B5c512AfaD8B7a1f975d6D",
+    		"logo": "https://i.imgur.com/3w4Z6PT.png",
+    		"slippage": 20
   	},	
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
