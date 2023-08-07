@@ -93,6 +93,11 @@
     		"contract": "0xFffC7E86D33B5312dCF18474526AEF01639fCd05",
     		"logo": "https://i.imgur.com/USmOb6n.png",
     		"slippage": 20
+  	},
+  	"OGGYB": {
+    		"contract": "0xe9aE8d2D6577BDa0c8a8bf1b35d9B9796294BE84",
+    		"logo": "https://i.imgur.com/oX3DZZr.png",
+    		"slippage": 20
   	},	
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
