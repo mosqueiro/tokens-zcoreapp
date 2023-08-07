@@ -1,5 +1,13 @@
 [
   {
+    "name": "BABY OGGY CEO",
+    "symbol": "OGGYB",
+    "address": "0xe9aE8d2D6577BDa0c8a8bf1b35d9B9796294BE84",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/oX3DZZr.png"
+  },
+  {
     "name": "PETCOIN",
     "symbol": "PETCOIN",
     "address": "0xFffC7E86D33B5312dCF18474526AEF01639fCd05",
