@@ -12,7 +12,7 @@
     "symbol": "XELON",
     "address": "0x639fFeefe700a0926845F761B72F173765B842c9",
     "chainId": 56,
-    "decimals": 9,
+    "decimals": 18,
     "logoURI": "https://i.imgur.com/EIGB5UJ.png"
   },  
   {
