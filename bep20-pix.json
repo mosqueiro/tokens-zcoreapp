@@ -97,7 +97,7 @@
   	"OGGYB": {
     		"contract": "0xe9aE8d2D6577BDa0c8a8bf1b35d9B9796294BE84",
     		"logo": "https://i.imgur.com/oX3DZZr.png",
-    		"slippage": 20
+    		"slippage": 30
   	},	
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
