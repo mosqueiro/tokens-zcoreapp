@@ -108,6 +108,11 @@
     		"contract": "0xa362217F02DA8A580dd3612a8B5A36d9aB20983A",
     		"logo": "https://i.imgur.com/wcG9j1j.png",
     		"slippage": 20
+  	},
+  	"XELON": {
+    		"contract": "0x639fFeefe700a0926845F761B72F173765B842c9",
+    		"logo": "https://i.imgur.com/EIGB5UJ.png",
+    		"slippage": 20
   	},	
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
