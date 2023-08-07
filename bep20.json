@@ -1,12 +1,20 @@
 [
   {
+    "name": "X Dogelon Mars",
+    "symbol": "XELON",
+    "address": "0x639fFeefe700a0926845F761B72F173765B842c9",
+    "chainId": 18,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/EIGB5UJ.png"
+  },
+  {
     "name": "baby minako 2.0",
     "symbol": "BBM2.0",
     "address": "0xa362217F02DA8A580dd3612a8B5A36d9aB20983A",
     "chainId": 56,
     "decimals": 9,
     "logoURI": "https://i.imgur.com/wcG9j1j.png"
-  },
+  },  
   {
     "name": "BABY OGGY CEO",
     "symbol": "OGGYB",
