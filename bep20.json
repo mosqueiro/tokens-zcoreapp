@@ -1,5 +1,13 @@
 [
   {
+    "name": "Homer Hulk",
+    "symbol": "HHK",
+    "address": "0x0362d41Ed21C37be6940783cd7Cd1a06792221CA",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/PrC1oYn.png"
+  },
+  {
     "name": "Cz Ai X",
     "symbol": "CZX",
     "address": "0xFf77d719A7538d3830B5c512AfaD8B7a1f975d6D",
