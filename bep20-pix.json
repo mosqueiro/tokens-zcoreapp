@@ -118,6 +118,11 @@
     		"contract": "0xFf77d719A7538d3830B5c512AfaD8B7a1f975d6D",
     		"logo": "https://i.imgur.com/3w4Z6PT.png",
     		"slippage": 20
+  	},
+  	"HHK": {
+    		"contract": "0x0362d41Ed21C37be6940783cd7Cd1a06792221CA",
+    		"logo": "https://i.imgur.com/PrC1oYn.png",
+    		"slippage": 20
   	},	
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
