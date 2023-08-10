@@ -1,5 +1,13 @@
 [
   {
+    "name": "MOVIBIT",
+    "symbol": "MVBT",
+    "address": "0x5d6Fe0FB6d8f44C1b41151D1Afff3b3ae68C8326",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/koo6ajo.png"
+  },
+  {
     "name": "Homer Hulk",
     "symbol": "HHK",
     "address": "0x0362d41Ed21C37be6940783cd7Cd1a06792221CA",
