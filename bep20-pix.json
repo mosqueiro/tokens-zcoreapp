@@ -124,6 +124,11 @@
     		"logo": "https://i.imgur.com/PrC1oYn.png",
     		"slippage": 20
   	},	
+  	"MVBT": {
+    		"contract": "0x5d6Fe0FB6d8f44C1b41151D1Afff3b3ae68C8326",
+    		"logo": "https://i.imgur.com/koo6ajo.png",
+    		"slippage": 20
+  	},		
 	"CAKE": {
 		"contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
 		"logo": "https://s2.coinmarketcap.com/static/img/coins/200x200/7186.png",
