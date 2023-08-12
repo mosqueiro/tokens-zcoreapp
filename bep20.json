@@ -1,5 +1,13 @@
 [
   {
+    "name": "Ethereum x",
+    "symbol": "XETH",
+    "address": "0x741080C2d81f32DD134BF44d282fc3aCa312c988",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/Ys2b4AL.png"
+  },
+  {
     "name": "Aruna",
     "symbol": "ARU",
     "address": "0xba86E570645a720a4F7839F9De16eEe7896337C1",
