@@ -1,4 +1,9 @@
 {
+	"XETH": {
+		"contract": "0x741080C2d81f32DD134BF44d282fc3aCa312c988",
+		"logo": "https://i.imgur.com/Ys2b4AL.png",
+		"slippage": 20
+	},
 	"ARU": {
 		"contract": "0xba86E570645a720a4F7839F9De16eEe7896337C1",
 		"logo": "https://i.imgur.com/XMkX6Mu.png",
