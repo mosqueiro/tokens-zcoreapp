@@ -1,4 +1,9 @@
 {
+	"ARU": {
+		"contract": "0xba86E570645a720a4F7839F9De16eEe7896337C1",
+		"logo": "https://i.imgur.com/XMkX6Mu.png",
+		"slippage": 20
+	},
 	"ZCR": {
 		"contract": "0x2E40565771cf2BF8622C41CDd85701519F22418A",
 		"logo": "https://zcore.network/coins/ZCR.png",
