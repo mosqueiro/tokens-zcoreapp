@@ -1,5 +1,13 @@
 [
   {
+    "name": "Aruna",
+    "symbol": "ARU",
+    "address": "0xba86E570645a720a4F7839F9De16eEe7896337C1",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/XMkX6Mu.png"
+  },
+  {
     "name": "MOVIBIT",
     "symbol": "MVBT",
     "address": "0x5d6Fe0FB6d8f44C1b41151D1Afff3b3ae68C8326",
