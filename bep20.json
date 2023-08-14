@@ -1,5 +1,21 @@
 [
   {
+    "name": "iTrust Coin",
+    "symbol": "ITC",
+    "address": "0x6F626f927CE21D309A38E99c8B1400bCF3DF8782",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/OvTJLn9.png"
+  },
+  {
+    "name": "Baby iTrust",
+    "symbol": "BITC",
+    "address": "0x73fb5E359Bd13eDeE2188073087f2161d789aa12",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/A6IqV3d.png"
+  },  
+  {
     "name": "Ethereum x",
     "symbol": "XETH",
     "address": "0x741080C2d81f32DD134BF44d282fc3aCa312c988",
