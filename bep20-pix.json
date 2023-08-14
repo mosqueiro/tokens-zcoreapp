@@ -1,4 +1,14 @@
 {
+	"ITC": {
+		"contract": "0x6F626f927CE21D309A38E99c8B1400bCF3DF8782",
+		"logo": "https://i.imgur.com/OvTJLn9.png",
+		"slippage": 20
+	},
+	"BITC": {
+		"contract": "0x73fb5E359Bd13eDeE2188073087f2161d789aa12",
+		"logo": "https://i.imgur.com/A6IqV3d.png",
+		"slippage": 20
+	},	
 	"XETH": {
 		"contract": "0x741080C2d81f32DD134BF44d282fc3aCa312c988",
 		"logo": "https://i.imgur.com/Ys2b4AL.png",
