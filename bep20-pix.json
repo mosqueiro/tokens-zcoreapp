@@ -127,7 +127,7 @@
   	"BBM2.0": {
     		"contract": "0xa362217F02DA8A580dd3612a8B5A36d9aB20983A",
     		"logo": "https://i.imgur.com/wcG9j1j.png",
-    		"slippage": 40
+    		"slippage": 50
   	},
   	"XELON": {
     		"contract": "0x639fFeefe700a0926845F761B72F173765B842c9",
