@@ -1,5 +1,13 @@
 [
   {
+    "name": "DGiroto Professional",
+    "symbol": "DGP",
+    "address": "0xa071818BcB54B51b9a24aD6F8f13A3F481C2AF58",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/qjYvhmd.png"
+  },
+  {
     "name": "iTrust Coin",
     "symbol": "ITC",
     "address": "0x6F626f927CE21D309A38E99c8B1400bCF3DF8782",
