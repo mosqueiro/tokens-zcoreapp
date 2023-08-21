@@ -1,4 +1,9 @@
 {
+	"DGP": {
+		"contract": "0xa071818BcB54B51b9a24aD6F8f13A3F481C2AF58",
+		"logo": "https://i.imgur.com/qjYvhmd.png",
+		"slippage": 20
+	},
 	"ITC": {
 		"contract": "0x6F626f927CE21D309A38E99c8B1400bCF3DF8782",
 		"logo": "https://i.imgur.com/OvTJLn9.png",
