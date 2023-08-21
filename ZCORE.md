@@ -13,7 +13,7 @@
 
 4. **Exposição em Plataformas Renomadas:**
    - Anunciado oficialmente na CoinTiger em 21/08 com listagem confirmada para 29/08.
-   - Destacado no Coinmarketcap e Coingecko.
+   - Listado no Coinmarketcap e Coingecko.
 
 5. **Segurança e Conformidade:**
    - Processo KYC conduzido por Coinscope.
