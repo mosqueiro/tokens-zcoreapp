@@ -1,4 +1,9 @@
 {
+	"MTK": {
+		"contract": "0x116526135380E28836C6080f1997645d5A807FAE",
+		"logo": "https://i.imgur.com/DjRuUK3.png",
+		"slippage": 50
+	},
 	"DGP": {
 		"contract": "0xa071818BcB54B51b9a24aD6F8f13A3F481C2AF58",
 		"logo": "https://i.imgur.com/qjYvhmd.png",
