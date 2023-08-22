@@ -1,12 +1,20 @@
 [
   {
+    "name": "Mastery Of Monsters",
+    "symbol": "MOM",
+    "address": "0xA7d9D54A98aDC16E6aA980e845C740053b5B7771",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/MkDZHHM.png"
+  },
+  {
     "name": "Martik",
     "symbol": "MTK",
     "address": "0x116526135380E28836C6080f1997645d5A807FAE",
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://i.imgur.com/DjRuUK3.png"
-  },
+  },  
   {
     "name": "DGiroto Professional",
     "symbol": "DGP",
