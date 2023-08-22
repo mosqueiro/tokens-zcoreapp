@@ -1,5 +1,13 @@
 [
   {
+    "name": "Martik",
+    "symbol": "MTK",
+    "address": "0x116526135380E28836C6080f1997645d5A807FAE",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/DjRuUK3.png"
+  },
+  {
     "name": "DGiroto Professional",
     "symbol": "DGP",
     "address": "0xa071818BcB54B51b9a24aD6F8f13A3F481C2AF58",
