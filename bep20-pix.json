@@ -1,4 +1,9 @@
 {
+	"MOM": {
+		"contract": "0xA7d9D54A98aDC16E6aA980e845C740053b5B7771",
+		"logo": "https://i.imgur.com/MkDZHHM.png",
+		"slippage": 30
+	},
 	"MTK": {
 		"contract": "0x116526135380E28836C6080f1997645d5A807FAE",
 		"logo": "https://i.imgur.com/DjRuUK3.png",
