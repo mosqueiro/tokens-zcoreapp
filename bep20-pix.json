@@ -1,4 +1,9 @@
 {
+	"BABYNU": {
+		"contract": "0x156a3Fc3CD57f453c1B36C64f4900fca52FE1C50",
+		"logo": "https://i.imgur.com/8Fb8e3a.png",
+		"slippage": 30
+	},
 	"MOM": {
 		"contract": "0xA7d9D54A98aDC16E6aA980e845C740053b5B7771",
 		"logo": "https://i.imgur.com/MkDZHHM.png",
