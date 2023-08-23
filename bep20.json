@@ -1,5 +1,13 @@
 [
   {
+    "name": "Nucoin Invest",
+    "symbol": "NuInvest",
+    "address": "0xF8A5C791Ffd9B73ddcA97aD62fD30EB2117c066D",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/lCnNlzx.png"
+  },
+  {
     "name": "Baby NuCoin",
     "symbol": "BABYNU",
     "address": "0x156a3Fc3CD57f453c1B36C64f4900fca52FE1C50",
