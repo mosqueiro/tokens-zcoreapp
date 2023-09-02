@@ -1,4 +1,9 @@
 {
+	"Phoenix": {
+		"contract": "0x2660f8635C4B9cbD130D9CAc4a05d7Ef7FE2Ce99",
+		"logo": "https://i.imgur.com/mU5pIgN.png",
+		"slippage": 30
+	},
 	"NuInvest": {
 		"contract": "0xF8A5C791Ffd9B73ddcA97aD62fD30EB2117c066D",
 		"logo": "https://i.imgur.com/lCnNlzx.png",
