@@ -1,5 +1,13 @@
 [
   {
+    "name": "Phoenix INU",
+    "symbol": "Phoenix",
+    "address": "0x2660f8635C4B9cbD130D9CAc4a05d7Ef7FE2Ce99",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/mU5pIgN.png"
+  },  
+  {
     "name": "winy",
     "symbol": "winy",
     "address": "0x0189edc053ADA8902d29741a23A4e337AA113a4B",
