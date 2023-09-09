@@ -1,4 +1,9 @@
 {
+	"XUSDT": {
+		"contract": "0xd97802103f31FA0efC315ECD3a9cBF5AFb215d62",
+		"logo": "https://i.imgur.com/9VCfjas.png",
+		"slippage": 30
+	},
 	"Phoenix": {
 		"contract": "0x2660f8635C4B9cbD130D9CAc4a05d7Ef7FE2Ce99",
 		"logo": "https://i.imgur.com/mU5pIgN.png",
