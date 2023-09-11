@@ -1,11 +1,11 @@
 [
   {
-    "name": "XTether",
-    "symbol": "XUSDT",
-    "address": "0xd97802103f31FA0efC315ECD3a9cBF5AFb215d62",
+    "name": "BITCOIN BURN",
+    "symbol": "BTCBURN",
+    "address": "0x9F1Da73140Df48c6DcA67Ea683586d2692bB808a",
     "chainId": 56,
-    "decimals": 9,
-    "logoURI": "https://i.imgur.com/9VCfjas.png"
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/qheJjrf.png"
   },  
   {
     "name": "Phoenix INU",
