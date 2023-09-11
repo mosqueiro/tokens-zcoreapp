@@ -1,5 +1,9 @@
 {
-
+	"BTCBURN": {
+		"contract": "0x9F1Da73140Df48c6DcA67Ea683586d2692bB808a",
+		"logo": "https://i.imgur.com/qheJjrf.png",
+		"slippage": 30
+	},
 	"SDAO": {
 		"contract": "0x90Ed8F1dc86388f14b64ba8fb4bbd23099f18240",
 		"logo": "https://assets.coingecko.com/coins/images/15385/large/200x200_logo.png?1665743635",
