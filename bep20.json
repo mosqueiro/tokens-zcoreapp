@@ -1,5 +1,13 @@
 [
   {
+    "name": "Pepe_Hold_ZCore",
+    "symbol": "$PHZ",
+    "address": "0xBa9a1b00BBe853B8B1E17487456Fc47C6da74eD5",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/CGzoq6j.png"
+  }, 
+  {
     "name": "Shiba Black 2.0",
     "symbol": "NSBK",
     "address": "0xbE893B0C8d1b96666D17F344Dc095CCAFb9f0C9f",
