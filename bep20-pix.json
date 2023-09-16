@@ -1,4 +1,9 @@
 {
+	"MOVE": {
+		"contract": "0x95Ca12cd249D27008a482009e101a8501cf3a64f",
+		"logo": "https://i.imgur.com/akTbAjP.png",
+		"slippage": 30
+	},
 	"$PHZ": {
 		"contract": "0xBa9a1b00BBe853B8B1E17487456Fc47C6da74eD5",
 		"logo": "https://i.imgur.com/CGzoq6j.png",
