@@ -1,5 +1,13 @@
 [
   {
+    "name": "MoveApp",
+    "symbol": "MOVE",
+    "address": "0x95Ca12cd249D27008a482009e101a8501cf3a64f",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/akTbAjP.png"
+  }, 
+  {
     "name": "Pepe_Hold_ZCore",
     "symbol": "$PHZ",
     "address": "0xBa9a1b00BBe853B8B1E17487456Fc47C6da74eD5",
