@@ -1,4 +1,9 @@
 {
+	"$ALI": {
+		"contract": "0x8c68a5Ac05eFbB2e1F843094e726fe0f557dE954",
+		"logo": "https://i.imgur.com/ORQH7nR.png",
+		"slippage": 30
+	},
 	"MOVE": {
 		"contract": "0x95Ca12cd249D27008a482009e101a8501cf3a64f",
 		"logo": "https://i.imgur.com/akTbAjP.png",
