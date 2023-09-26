@@ -1,5 +1,13 @@
 [
   {
+    "name": "Light DeFi",
+    "symbol": "LIGHT",
+    "address": "0x842668E2B9A73240aBF6532DEdC89c9c3e050C98",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/17880/large/bW0DtiU.png?1658286896"
+  }, 
+  {
     "name": "ALION NETWORK",
     "symbol": "$ALI",
     "address": "0x8c68a5Ac05eFbB2e1F843094e726fe0f557dE954",
