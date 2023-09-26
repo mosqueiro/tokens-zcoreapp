@@ -1,4 +1,9 @@
 {
+	"LIGHT": {
+		"contract": "0x842668E2B9A73240aBF6532DEdC89c9c3e050C98",
+		"logo": "https://assets.coingecko.com/coins/images/17880/large/bW0DtiU.png?1658286896",
+		"slippage": 30
+	},
 	"$ALI": {
 		"contract": "0x8c68a5Ac05eFbB2e1F843094e726fe0f557dE954",
 		"logo": "https://i.imgur.com/ORQH7nR.png",
