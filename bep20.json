@@ -1,5 +1,13 @@
 [
   {
+    "name": "INTER COIN",
+    "symbol": "ICOIN",
+    "address": "0x62EcBDaC82641100D8ac722eB5252cAce5a04B85",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/hGs26MP.png"
+  }, 
+  {
     "name": "Light DeFi",
     "symbol": "LIGHT",
     "address": "0x842668E2B9A73240aBF6532DEdC89c9c3e050C98",
