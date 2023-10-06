@@ -1,4 +1,9 @@
 {
+	"WBBK": {
+		"contract": "0x9045B0eda6B6A556cf9B3d81C2db47411714f847",
+		"logo": "https://i.imgur.com/AJYtysZ.png",
+		"slippage": 30
+	},
 	"BANUS": {
 		"contract": "0x98999Aa1B0D17fB832FD509e13b67FE506513a6D",
 		"logo": "https://i.imgur.com/0Zza9TL.png",
