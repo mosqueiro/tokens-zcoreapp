@@ -1,4 +1,9 @@
 {
+	"BANUS": {
+		"contract": "0x98999Aa1B0D17fB832FD509e13b67FE506513a6D",
+		"logo": "https://i.imgur.com/0Zza9TL.png",
+		"slippage": 30
+	},
 	"ICOIN": {
 		"contract": "0x62EcBDaC82641100D8ac722eB5252cAce5a04B85",
 		"logo": "https://i.imgur.com/hGs26MP.png",
