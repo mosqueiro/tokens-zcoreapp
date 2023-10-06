@@ -1,12 +1,20 @@
 [ 
   {
+    "name": "BANUS",
+    "symbol": "BANUS",
+    "address": "0x98999Aa1B0D17fB832FD509e13b67FE506513a6D",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/0Zza9TL.png"
+  },
+  {
     "name": "Dogai",
     "symbol": "DOGAI",
     "address": "0x94DB03752342Bc9b5bBF89E3BF0132494f0cb2B3",
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://i.imgur.com/yhSPT3M.png"
-  }, 
+  },
   {
     "name": "Wrapped LQX",
     "symbol": "WLQX",
