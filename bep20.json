@@ -1,5 +1,13 @@
 [ 
   {
+    "name": "Wrapped BitBlocks",
+    "symbol": "WBBK",
+    "address": "0x98999Aa1B0D17fB832FD509e13b67FE506513a6D",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/AJYtysZ.png"
+  },
+  {
     "name": "BANUS",
     "symbol": "BANUS",
     "address": "0x98999Aa1B0D17fB832FD509e13b67FE506513a6D",
