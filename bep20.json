@@ -1,5 +1,13 @@
 [ 
   {
+    "name": "Shib Generating",
+    "symbol": "SHG",
+    "address": "0x33AF7644B1F60c8e8d62689b19d60a5d132164fC",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/7Iyi8k2.png"
+  },
+  {
     "name": "Wrapped BitBlocks",
     "symbol": "WBBK",
     "address": "0x9045B0eda6B6A556cf9B3d81C2db47411714f847",
