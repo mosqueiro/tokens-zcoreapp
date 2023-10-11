@@ -1,4 +1,9 @@
 {
+	"CashHand": {
+		"contract": "0x630D1C78BC61274294bDB008f63a41B06Ff799DD",
+		"logo": "https://i.imgur.com/vZyxzJ8.png",
+		"slippage": 30
+	},
 	"SHG": {
 		"contract": "0x33AF7644B1F60c8e8d62689b19d60a5d132164fC",
 		"logo": "https://i.imgur.com/7Iyi8k2.png",
