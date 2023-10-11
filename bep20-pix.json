@@ -1,4 +1,9 @@
 {
+	"ZEFI": {
+		"contract": "0x0288d3e353fe2299f11ea2c2e1696b4a648ecc07",
+		"logo": "https://zcore.network/coins/ZEFI.png",
+		"slippage": 30
+	},
 	"CashHand": {
 		"contract": "0x630D1C78BC61274294bDB008f63a41B06Ff799DD",
 		"logo": "https://i.imgur.com/vZyxzJ8.png",
