@@ -1,5 +1,13 @@
 [ 
   {
+    "name": "CashHand",
+    "symbol": "CashHand",
+    "address": "0x630D1C78BC61274294bDB008f63a41B06Ff799DD",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/vZyxzJ8.png"
+  },
+  {
     "name": "Shib Generating",
     "symbol": "SHG",
     "address": "0x33AF7644B1F60c8e8d62689b19d60a5d132164fC",
