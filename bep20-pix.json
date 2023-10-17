@@ -1,4 +1,9 @@
 {
+	"ETAI": {
+		"contract": "0x5AAa5DcEF49a8C2caB513Aaf9eFc6922B1b42D0B",
+		"logo": "https://i.imgur.com/tDwXdiv.png",
+		"slippage": 30
+	},
 	"IVIP": {
 		"contract": "0xbdC87A65e0b6bfB631847B7dE815D2B07DEC8ee7",
 		"logo": "https://i.imgur.com/b5EurFp.png",
