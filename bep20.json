@@ -1,12 +1,20 @@
 [ 
   {
+    "name": "iVipCoin",
+    "symbol": "IVIP",
+    "address": "0xbdC87A65e0b6bfB631847B7dE815D2B07DEC8ee7",
+    "chainId": 56,
+    "decimals": 5,
+    "logoURI": "https://i.imgur.com/b5EurFp.png"
+  },
+  {
     "name": "CashHand",
     "symbol": "CashHand",
     "address": "0x630D1C78BC61274294bDB008f63a41B06Ff799DD",
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://i.imgur.com/vZyxzJ8.png"
-  },
+  },  
   {
     "name": "Shib Generating",
     "symbol": "SHG",
