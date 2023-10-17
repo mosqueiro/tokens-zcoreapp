@@ -1,5 +1,13 @@
 [ 
   {
+    "name": "E.T AI Swap",
+    "symbol": "ETAI",
+    "address": "0x5AAa5DcEF49a8C2caB513Aaf9eFc6922B1b42D0B",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/tDwXdiv.png"
+  },
+  {
     "name": "iVipCoin",
     "symbol": "IVIP",
     "address": "0xbdC87A65e0b6bfB631847B7dE815D2B07DEC8ee7",
