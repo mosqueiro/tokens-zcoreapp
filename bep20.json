@@ -1,5 +1,13 @@
 [ 
   {
+    "name": "Binance-Peg BTCB",
+    "symbol": "BTCB",
+    "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1696501400"
+  },
+  {
     "name": "E.T AI Swap",
     "symbol": "ETAI",
     "address": "0x5AAa5DcEF49a8C2caB513Aaf9eFc6922B1b42D0B",
