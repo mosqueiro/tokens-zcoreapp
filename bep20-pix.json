@@ -9,11 +9,6 @@
 		"logo": "https://i.imgur.com/tDwXdiv.png",
 		"slippage": 30
 	},
-	"IVIP": {
-		"contract": "0xbdC87A65e0b6bfB631847B7dE815D2B07DEC8ee7",
-		"logo": "https://i.imgur.com/b5EurFp.png",
-		"slippage": 30
-	},
 	"ZEFI": {
 		"contract": "0x0288D3E353fE2299F11eA2c2e1696b4A648eCC07",
 		"logo": "https://zcore.network/coins/ZEFI.png",
