@@ -1,5 +1,13 @@
 [ 
   {
+    "name": "Yoda Coin Swap",
+    "symbol": "JEDALS",
+    "address": "0xA310017E40E687C8670D218E3c86a0d09786574F",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/NAFEYnD.png"
+  },
+  {
     "name": "Binance-Peg BTCB",
     "symbol": "BTCB",
     "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
