@@ -1,9 +1,14 @@
 {
+	"JEDALS": {
+		"contract": "0xA310017E40E687C8670D218E3c86a0d09786574F",
+		"logo": "https://i.imgur.com/NAFEYnD.png",
+		"slippage": 30
+	},
 	"BTCB": {
 		"contract": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
 		"logo": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
 		"slippage": 1
-	},
+	},	
 	"ETAI": {
 		"contract": "0x5AAa5DcEF49a8C2caB513Aaf9eFc6922B1b42D0B",
 		"logo": "https://i.imgur.com/tDwXdiv.png",
