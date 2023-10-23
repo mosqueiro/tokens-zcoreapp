@@ -1,4 +1,9 @@
 {
+	"BLF": {
+		"contract": "0xE3B4F0fa9F7AC0B29B29bf94503C3016Eb56876d",
+		"logo": "https://i.imgur.com/8KurdLH.png",
+		"slippage": 30
+	},
 	"JEDALS": {
 		"contract": "0xA310017E40E687C8670D218E3c86a0d09786574F",
 		"logo": "https://i.imgur.com/NAFEYnD.png",
