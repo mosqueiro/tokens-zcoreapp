@@ -1,4 +1,9 @@
 {
+	"BCC": {
+		"contract": "0xd1dea519de0e7405E58a6353C6B60F8fdbCD99C1",
+		"logo": "https://i.imgur.com/z0sqFw7.png",
+		"slippage": 30
+	},
 	"BLF": {
 		"contract": "0xE3B4F0fa9F7AC0B29B29bf94503C3016Eb56876d",
 		"logo": "https://i.imgur.com/8KurdLH.png",
