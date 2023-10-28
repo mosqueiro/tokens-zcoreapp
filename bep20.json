@@ -1,5 +1,13 @@
 [ 
   {
+    "name": "ETF Finance",
+    "symbol": "ETF",
+    "address": "0x6E7A3FBA2BAAeaC01B272E4C081228e7e6ECE70e",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/AZnXD7i.png"
+  },
+  {
     "name": "BRAZUCAR COIN",
     "symbol": "BCC",
     "address": "0xd1dea519de0e7405E58a6353C6B60F8fdbCD99C1",
