@@ -1,4 +1,9 @@
 {
+	"ETF": {
+		"contract": "0x6E7A3FBA2BAAeaC01B272E4C081228e7e6ECE70e",
+		"logo": "https://i.imgur.com/AZnXD7i.png",
+		"slippage": 30
+	},
 	"BCC": {
 		"contract": "0xd1dea519de0e7405E58a6353C6B60F8fdbCD99C1",
 		"logo": "https://i.imgur.com/z0sqFw7.png",
