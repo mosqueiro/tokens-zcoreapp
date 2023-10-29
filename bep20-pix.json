@@ -1,4 +1,9 @@
 {
+	"PEPEAi": {
+		"contract": "0xa2D5A2b91CF649Fa470f3dbC5D40398743Afc523",
+		"logo": "https://i.imgur.com/hMrk0MD.png",
+		"slippage": 30
+	},
 	"ETF": {
 		"contract": "0x6E7A3FBA2BAAeaC01B272E4C081228e7e6ECE70e",
 		"logo": "https://i.imgur.com/AZnXD7i.png",
