@@ -1,5 +1,13 @@
 [ 
   {
+    "name": "Pepeaiinu",
+    "symbol": "PEPEAi",
+    "address": "0xa2D5A2b91CF649Fa470f3dbC5D40398743Afc523",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/hMrk0MD.png"
+  },
+  {
     "name": "ETF Finance",
     "symbol": "ETF",
     "address": "0x6E7A3FBA2BAAeaC01B272E4C081228e7e6ECE70e",
