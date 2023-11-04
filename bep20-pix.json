@@ -1,4 +1,9 @@
 {
+	"IOT": {
+		"contract": "0x02806435d4B7c1dF6FC2df629488a1623b589396",
+		"logo": "https://i.imgur.com/zoJxBVB.png",
+		"slippage": 30
+	},
 	"PEPEAi": {
 		"contract": "0xa2D5A2b91CF649Fa470f3dbC5D40398743Afc523",
 		"logo": "https://i.imgur.com/hMrk0MD.png",
