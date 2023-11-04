@@ -1,4 +1,9 @@
 {
+	"POKERFI": {
+		"contract": "0x6Bd30f2D5849A3C24042a5F012af753486ac8054",
+		"logo": "https://pokerfi.com.br/wp-content/uploads/2022/03/moedinha1.png",
+		"slippage": 30
+	},
 	"IOT": {
 		"contract": "0x02806435d4B7c1dF6FC2df629488a1623b589396",
 		"logo": "https://i.imgur.com/zoJxBVB.png",
