@@ -1,5 +1,13 @@
 [ 
   {
+    "name": "Husky.AI",
+    "symbol": "HUS",
+    "address": "0x724F8EBae58F19bc472ae57B4b24748A9f3E55C5",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31386/large/IMG_19721BF64363-1.jpeg?1696530203"
+  },
+  {
     "name": "Acria Token",
     "symbol": "ACRIA",
     "address": "0x44F5909E97E1CBf5FBbDF0FC92FD83cde5d5c58A",
