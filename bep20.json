@@ -1,5 +1,13 @@
 [ 
   {
+    "name": "Matic Token",
+    "symbol": "MATIC",
+    "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4713/large/polygon.png?1698233745"
+  },
+  {
     "name": "Husky.AI",
     "symbol": "HUS",
     "address": "0x724F8EBae58F19bc472ae57B4b24748A9f3E55C5",
