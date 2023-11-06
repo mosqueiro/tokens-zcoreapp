@@ -1,4 +1,9 @@
 {
+	"HUS": {
+		"contract": "0x724F8EBae58F19bc472ae57B4b24748A9f3E55C5",
+		"logo": "https://assets.coingecko.com/coins/images/31386/large/IMG_19721BF64363-1.jpeg?1696530203",
+		"slippage": 30
+	},
 	"ACRIA": {
 		"contract": "0x44F5909E97E1CBf5FBbDF0FC92FD83cde5d5c58A",
 		"logo": "https://assets.coingecko.com/coins/images/28598/large/image002.png?1696527585",
