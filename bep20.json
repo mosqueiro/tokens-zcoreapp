@@ -1,5 +1,13 @@
 [ 
   {
+    "name": "Acria Token",
+    "symbol": "ACRIA",
+    "address": "0x44F5909E97E1CBf5FBbDF0FC92FD83cde5d5c58A",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28598/large/image002.png?1696527585"
+  },
+  {
     "name": "Iotec",
     "symbol": "IOT",
     "address": "0x02806435d4B7c1dF6FC2df629488a1623b589396",
