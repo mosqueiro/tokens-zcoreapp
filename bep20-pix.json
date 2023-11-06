@@ -1,4 +1,9 @@
 {
+	"ACRIA": {
+		"contract": "0x44F5909E97E1CBf5FBbDF0FC92FD83cde5d5c58A",
+		"logo": "https://assets.coingecko.com/coins/images/28598/large/image002.png?1696527585",
+		"slippage": 30
+	},
 	"POKERFI": {
 		"contract": "0x6Bd30f2D5849A3C24042a5F012af753486ac8054",
 		"logo": "https://pokerfi.com.br/wp-content/uploads/2022/03/moedinha1.png",
