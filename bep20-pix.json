@@ -1,4 +1,9 @@
 {
+	"MATIC": {
+		"contract": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+		"logo": "https://assets.coingecko.com/coins/images/4713/large/polygon.png?1698233745",
+		"slippage": 30
+	},
 	"HUS": {
 		"contract": "0x724F8EBae58F19bc472ae57B4b24748A9f3E55C5",
 		"logo": "https://assets.coingecko.com/coins/images/31386/large/IMG_19721BF64363-1.jpeg?1696530203",
