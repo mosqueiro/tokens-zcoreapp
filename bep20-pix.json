@@ -184,11 +184,6 @@
 		"logo": "https://i.imgur.com/XMkX6Mu.png",
 		"slippage": 20
 	},
-	"ZCR": {
-		"contract": "0x2E40565771cf2BF8622C41CDd85701519F22418A",
-		"logo": "https://zcore.network/coins/ZCR.png",
-		"slippage": 10
-	},
 	"BNB": {
 		"contract": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
 		"logo": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
