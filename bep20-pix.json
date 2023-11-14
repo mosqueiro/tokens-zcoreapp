@@ -1,4 +1,9 @@
 {
+	"ZCR": {
+		"contract": "0x0e8fE6eeD5342Ea9189D9268D088821f0532fb74",
+		"logo": "https://zcore.network/coins/NZCR2.png",
+		"slippage": 30
+	},
 	"MATIC": {
 		"contract": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
 		"logo": "https://assets.coingecko.com/coins/images/4713/large/polygon.png?1698233745",
