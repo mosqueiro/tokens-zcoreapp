@@ -501,8 +501,16 @@
     "address": "0x2E40565771cf2BF8622C41CDd85701519F22418A",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://zcore.network/coins/ZCR.png"
-  },  
+    "logoURI": "https://zcore.network/coins/ZCRB.png"
+  },
+  {
+    "name": "ZCore",
+    "symbol": "ZCR",
+    "address": "0x0e8fE6eeD5342Ea9189D9268D088821f0532fb74",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://zcore.network/coins/NZCR2.png"
+  },
   {
     "name": "ZCore Finance",
     "symbol": "ZEFI",
