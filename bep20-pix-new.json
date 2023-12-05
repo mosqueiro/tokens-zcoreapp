@@ -1,9 +1,15 @@
 {
+  "USDT": {
+    "contract": "0x55d398326f99059fF775485246999027B3197955",
+    "logo": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
+    "slippage": 1,
+    "route": []
+  },
   "BNB": {
     "contract": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "logo": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
     "slippage": 1,
-    "route": ["0x55d398326f99059fF775485246999027B3197955","0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"]
+    "route": []
   },
   "ZCR": {
     "contract": "0x0e8fE6eeD5342Ea9189D9268D088821f0532fb74",
