@@ -1,4 +1,14 @@
 {
+    "ETAI": {
+        "contract": "0x5AAa5DcEF49a8C2caB513Aaf9eFc6922B1b42D0B",
+        "logo": "https://i.imgur.com/tDwXdiv.png",
+        "slippage": 3,
+        "route": [
+            "0x55d398326f99059fF775485246999027B3197955",
+            "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "0x5AAa5DcEF49a8C2caB513Aaf9eFc6922B1b42D0B"
+        ]
+    },    
     "USDT": {
         "contract": "0x55d398326f99059fF775485246999027B3197955",
         "logo": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
