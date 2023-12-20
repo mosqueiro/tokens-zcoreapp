@@ -494,14 +494,6 @@
     "chainId": 56,
     "decimals": 9,
     "logoURI": "https://i.imgur.com/y6Fau6j.png"
-  },  
-  {
-    "name": "ZCore",
-    "symbol": "ZCR",
-    "address": "0x2E40565771cf2BF8622C41CDd85701519F22418A",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://zcore.network/coins/ZCRB.png"
   },
   {
     "name": "ZCore",
