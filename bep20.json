@@ -178,10 +178,10 @@
   {
     "name": "Dex RaiDen",
     "symbol": "DXR",
-    "address": "0xe23E9E1d88DfBca6a20bDeEa61ef10818A5879F7",
+    "address": "0x5fb7097e62979907b4e71a5989cf695d635890c0",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://i.imgur.com/9rsROM4.png"
+    "logoURI": "https://i.imgur.com/MJjGEw7.png"
   }, 
   {
     "name": "MoveApp",
