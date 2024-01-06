@@ -1,10 +1,18 @@
 [
     {
-    "name": "Baby Luffy",
-    "symbol": "BLF",
-    "address": "0xE3B4F0fa9F7AC0B29B29bf94503C3016Eb56876d",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://i.imgur.com/8KurdLH.png"
-  }
+        "name": "ZCore",
+        "symbol": "ZCR",
+        "address": "0x0e8fE6eeD5342Ea9189D9268D088821f0532fb74",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://zcore.network/coins/NZCR2.png"
+    },
+    {
+        "name": "Baby Luffy",
+        "symbol": "BLF",
+        "address": "0xE3B4F0fa9F7AC0B29B29bf94503C3016Eb56876d",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://i.imgur.com/8KurdLH.png"
+    }
 ]
