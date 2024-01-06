@@ -1,1 +1,10 @@
-
+[
+    {
+    "name": "Baby Luffy",
+    "symbol": "BLF",
+    "address": "0xE3B4F0fa9F7AC0B29B29bf94503C3016Eb56876d",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/8KurdLH.png"
+  }
+]
