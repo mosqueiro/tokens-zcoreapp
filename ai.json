@@ -6,7 +6,8 @@
         "chainId": 56,
         "decimals": 18,
         "logoURI": "https://zcore.network/coins/NZCR2.png",
-        "banner": "https://i.imgur.com/zar5SU7.png"
+        "banner": "https://i.imgur.com/zar5SU7.png",
+        "tickets": 1
     },
     {
         "name": "SHIBA INU Token",
@@ -15,6 +16,7 @@
         "chainId": 56,
         "decimals": 18,
         "logoURI": "https://zcore.network/coins/SHIB.png",
-        "banner": "https://i.imgur.com/Qk22DPY.png"
+        "banner": "https://i.imgur.com/Qk22DPY.png",
+        "tickets": 2
     }
 ]
