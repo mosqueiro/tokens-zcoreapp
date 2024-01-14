@@ -7,7 +7,7 @@
         "decimals": 18,
         "logoURI": "https://zcore.network/coins/NZCR2.png",
         "banner": "https://i.imgur.com/zar5SU7.png",
-        "tickets": 1
+        "qtdtickets": 1
     },
     {
         "name": "SHIBA INU Token",
@@ -17,6 +17,6 @@
         "decimals": 18,
         "logoURI": "https://zcore.network/coins/SHIB.png",
         "banner": "https://i.imgur.com/Qk22DPY.png",
-        "tickets": 2
+        "qtdtickets": 2
     }
 ]
