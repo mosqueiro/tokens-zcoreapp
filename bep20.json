@@ -1,5 +1,13 @@
 [ 
   {
+    "name": "VIPER KING",
+    "symbol": "Viper King",
+    "address": "0x5C9Da47A16D87c675B33Da817572cc4a8508FD06",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://i.imgur.com/beUx3cC.png"
+  },
+  {
     "name": "Matic Token",
     "symbol": "MATIC",
     "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
