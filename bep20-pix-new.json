@@ -35,17 +35,6 @@
             "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
         ]
     },
-    "POKERFI": {
-        "contract": "0x6Bd30f2D5849A3C24042a5F012af753486ac8054",
-        "logo": "https://pokerfi.com.br/wp-content/uploads/2022/03/moedinha1.png",
-        "slippage": 30,
-        "symbol": "POKERFI",
-        "route": [
-            "0x55d398326f99059fF775485246999027B3197955",
-            "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "0x6Bd30f2D5849A3C24042a5F012af753486ac8054"
-        ]
-    },
     "Viper King": {
         "contract": "0x5C9Da47A16D87c675B33Da817572cc4a8508FD06",
         "logo": "https://i.imgur.com/beUx3cC.png",
@@ -55,17 +44,6 @@
             "0x55d398326f99059fF775485246999027B3197955",
             "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
             "0x5C9Da47A16D87c675B33Da817572cc4a8508FD06"
-        ]
-    },    
-    "CAKE": {
-        "contract": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-        "logo": "https://s2.coinmarketcap.com/static/img/coins/200x200/7186.png",
-        "slippage": 1,
-        "symbol": "CAKE",
-        "route": [
-            "0x55d398326f99059fF775485246999027B3197955",
-            "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
         ]
     }
 }
