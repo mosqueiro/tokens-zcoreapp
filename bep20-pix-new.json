@@ -40,6 +40,7 @@
         "logo": "https://i.imgur.com/beUx3cC.png",
         "slippage": 30,
         "symbol": "Viper King",
+        "swap": "0x1d3B0f11B4d7965545F8355E98B3a06b810b58e4",
         "route": [
             "0x55d398326f99059fF775485246999027B3197955",
             "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
