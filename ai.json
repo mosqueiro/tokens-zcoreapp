@@ -1,5 +1,15 @@
 [
     {
+        "name": "VIPER KING",
+        "symbol": "Viper King",
+        "address": "0x5C9Da47A16D87c675B33Da817572cc4a8508FD06",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://i.imgur.com/beUx3cC.png",
+        "banner": "https://i.imgur.com/iRWHWCA.png",
+        "qtdtickets": 1
+    },
+    {
         "name": "ZCore",
         "symbol": "ZCR",
         "address": "0x0e8fE6eeD5342Ea9189D9268D088821f0532fb74",
