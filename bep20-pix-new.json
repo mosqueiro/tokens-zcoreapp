@@ -1,4 +1,16 @@
 { 
+    "ETF": {
+        "contract": "0x6E7A3FBA2BAAeaC01B272E4C081228e7e6ECE70e",
+        "logo": "https://i.imgur.com/AZnXD7i.png",
+        "slippage": 30,
+        "name": "ETF Finance",
+        "symbol": "ETF",
+        "route": [
+            "0x55d398326f99059fF775485246999027B3197955",
+            "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "0x6E7A3FBA2BAAeaC01B272E4C081228e7e6ECE70e"
+        ]
+    },    
     "USDT": {
         "contract": "0x55d398326f99059fF775485246999027B3197955",
         "logo": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
