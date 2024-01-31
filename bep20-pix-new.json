@@ -3,6 +3,7 @@
         "contract": "0x55d398326f99059fF775485246999027B3197955",
         "logo": "https://assets.coingecko.com/coins/images/325/large/Tether.png",
         "slippage": 3,
+        "name": "Binance-Peg BSC-USD",
         "symbol": "USDT",
         "route": ["0x55d398326f99059fF775485246999027B3197955"]
     },
@@ -10,6 +11,7 @@
         "contract": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
         "logo": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
         "slippage": 3,
+        "name": "Binance Coin",
         "symbol": "BNB",
         "route": ["0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"]
     },
@@ -17,6 +19,7 @@
         "contract": "0x0e8fE6eeD5342Ea9189D9268D088821f0532fb74",
         "logo": "https://zcore.network/coins/NZCR2.png",
         "slippage": 30,
+        "name": "ZCore",
         "symbol": "ZCR",
         "route": [
             "0x55d398326f99059fF775485246999027B3197955",
@@ -28,6 +31,7 @@
         "contract": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
         "logo": "https://zcore.network/coins/USDC.png",
         "slippage": 3,
+        "name": "Binance-Peg USD Coin",
         "symbol": "USDC",
         "route": [
             "0x55d398326f99059fF775485246999027B3197955",
@@ -39,6 +43,7 @@
         "contract": "0x5C9Da47A16D87c675B33Da817572cc4a8508FD06",
         "logo": "https://i.imgur.com/beUx3cC.png",
         "slippage": 30,
+        "name": "VIPER KING",
         "symbol": "Viper King",
         "swap": "0x1d3B0f11B4d7965545F8355E98B3a06b810b58e4",
         "route": [
