@@ -39,6 +39,18 @@
             "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
         ]
     },    
+    "WZM": {
+        "contract": "0xd4e17Ad949bB0Fd99A6e7a5F2daD73Baf41D3210",
+        "logo": "https://i.imgur.com/F2zqVtS.png",
+        "slippage": 30,
+        "name": "WinZone",
+        "symbol": "WZM",
+        "route": [
+            "0x55d398326f99059fF775485246999027B3197955",
+            "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "0xd4e17Ad949bB0Fd99A6e7a5F2daD73Baf41D3210"
+        ]
+    },
     "ETF": {
         "contract": "0x6E7A3FBA2BAAeaC01B272E4C081228e7e6ECE70e",
         "logo": "https://i.imgur.com/AZnXD7i.png",
