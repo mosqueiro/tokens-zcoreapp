@@ -5,6 +5,8 @@
         "slippage": 30,
         "name": "ZCore",
         "symbol": "ZCR",
+        "index" : "zcore-docs",
+        "telegram" : "0",        
         "route": [
             "0x55d398326f99059fF775485246999027B3197955",
             "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
@@ -46,6 +48,7 @@
         "name": "WinZone",
         "symbol": "WZM",
         "index" : "winzone-doc2",
+        "telegram" : "-1001606523969",
         "route": [
             "0x55d398326f99059fF775485246999027B3197955",
             "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
