@@ -81,5 +81,19 @@
             "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
             "0x5C9Da47A16D87c675B33Da817572cc4a8508FD06"
         ]
-    }
+    },
+    "CashHand": {
+        "contract": "0x630D1C78BC61274294bDB008f63a41B06Ff799DD",
+        "logo": "https://i.imgur.com/0bViVgO.png",
+        "slippage": 30,
+        "name": "CashHand",
+        "symbol": "CashHand",
+        "index" : "cashhand",
+        "telegram" : "0",
+        "route": [
+            "0x55d398326f99059fF775485246999027B3197955",
+            "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "0x630D1C78BC61274294bDB008f63a41B06Ff799DD"
+        ]
+    }    
 }
