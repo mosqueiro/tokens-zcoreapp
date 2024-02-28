@@ -61,7 +61,7 @@
         "slippage": 30,
         "name": "ETF Finance",
         "symbol": "ETF",
-        "index" : "etf-finance",
+        "index" : "etf-finance2",
         "telegram" : "-1001949832879",        
         "route": [
             "0x55d398326f99059fF775485246999027B3197955",
