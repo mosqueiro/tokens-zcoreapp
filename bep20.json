@@ -16,6 +16,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/4713/large/polygon.png?1698233745"
   },
   {
+    "name": "Buckzy USD",
+    "symbol": "B-USD",
+    "address": "0x19e2448C0145fAB104C411f1D9eddf1b05D6A4dD",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/54Z4pqG.png"
+  },  
+  {
     "name": "Husky.AI",
     "symbol": "HUS",
     "address": "0x724F8EBae58F19bc472ae57B4b24748A9f3E55C5",
