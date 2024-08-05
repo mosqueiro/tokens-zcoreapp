@@ -24,6 +24,14 @@
     "logoURI": "https://i.imgur.com/54Z4pqG.png"
   },  
   {
+    "name": "XCHAIN BRL",
+    "symbol": "XDRL",
+    "address": "0x4f10Bba5994624F6912383c1972bEd23Cd09abf4",
+    "chainId": 137,
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/eEcUBzU.png"
+  },    
+  {
     "name": "Husky.AI",
     "symbol": "HUS",
     "address": "0x724F8EBae58F19bc472ae57B4b24748A9f3E55C5",
